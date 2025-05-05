@@ -35,7 +35,7 @@ This is a monorepo for the SADo (Simple Todo) application, built as an example p
 
 ### Installation
 
-1.  Clone the repository.
+1.  Clone the repository. Hi!
 2.  Install dependencies from the root directory:
     ```bash
     pnpm install
